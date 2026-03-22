@@ -1,5 +1,6 @@
-# 🚀 About Me
+### 🚀 About Me
 
+Python & C# developer.
 
 ### 🛠 Tech Stack
 

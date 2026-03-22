@@ -2,6 +2,8 @@
 
 Python & C# developer.
 
+---
+
 ### 🛠 Tech Stack
 
 <div align="center">

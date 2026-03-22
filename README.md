@@ -1,9 +1,5 @@
 # 🚀 About Me
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=70" alt="header" />
-</div>
-
 
 ### 🛠 Tech Stack
 
@@ -20,8 +16,8 @@
 ### 📊 Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=5hastl5&show_icons=true&theme=radium&hide_border=true&include_all_commits=true&count_private=true" alt="Своя статистика" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=5hastl5&theme=radium&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=5hastl5&show_icons=true&theme=radium&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=5hastl5&theme=radium&hide_border=true" width="48%" />
 </div>
 
 <br>

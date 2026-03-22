@@ -8,7 +8,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <!-- Добавь сюда другие нужные технологии. Найти их можно на https://simpleicons.org/ -->
 </div>
 
 ---
@@ -20,9 +19,4 @@
 </div>
 
 <br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=5hastl5&theme=radium&hide_border=true&layout=compact" />
-</div>
-
 ---

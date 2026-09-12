@@ -1,10 +1,8 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi%2C%20I%20am%205hastl5&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Python%20%26%20C%23%20developer&descSize=18&descAlignY=68" width="100%" />
-</div>
+<h1 align="center">Hi, I'm 5hastl5 👋</h1>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=5hastl5&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile views" />
-</div>
+<p align="center">
+  <b>Python & C# developer</b> · Flutter / Dart · Arch-based Linux
+</p>
 
 ---
 
@@ -64,10 +62,4 @@ and I live in the terminal on **Arch-based Linux (CachyOS)**.
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=5hastl5&theme=radium&hide_border=true" width="60%" alt="GitHub streak" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" />
 </div>
